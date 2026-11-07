@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.2" baseProfile="tiny-ps" width="512" height="512" viewBox="0 0 512 512">
+  <title>CyberSecured</title>
+  <desc>Escudo azul oscuro con un candado blanco central y ocho conexiones de circuitos cian; simboliza la proteccion de sistemas y comunicaciones digitales.</desc>
+  <rect x="0" y="0" width="512" height="512" fill="#F6FAFF"/>
+  <path fill="#091B4A" d="M256 56 L418 151 L418 273 C418 349 361 410 256 463 C151 410 94 349 94 273 L94 151 Z"/>
+  <path fill="#FFFFFF" d="M256 80 L399 165 L399 271 C399 335 353 389 256 439 C159 389 113 335 113 271 L113 165 Z"/>
+  <path fill="#091B4A" d="M256 101 L382 175 L382 272 C382 330 335 377 256 418 C177 377 130 330 130 272 L130 175 Z"/>
+  <path d="M256 223 V174 M231 237 H219 L192 210 M210 275 H173 M232 309 L198 339 M256 331 V363 M280 309 L314 339 M302 275 H339 M281 237 H293 L320 210" fill="none" stroke="#00DBEC" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="256" cy="159" r="19" fill="#00DBEC"/><circle cx="256" cy="159" r="8" fill="#091B4A"/>
+  <circle cx="179" cy="197" r="19" fill="#00DBEC"/><circle cx="179" cy="197" r="8" fill="#091B4A"/>
+  <circle cx="154" cy="275" r="19" fill="#00DBEC"/><circle cx="154" cy="275" r="8" fill="#091B4A"/>
+  <circle cx="183" cy="352" r="19" fill="#00DBEC"/><circle cx="183" cy="352" r="8" fill="#091B4A"/>
+  <circle cx="256" cy="380" r="19" fill="#00DBEC"/><circle cx="256" cy="380" r="8" fill="#091B4A"/>
+  <circle cx="329" cy="352" r="19" fill="#00DBEC"/><circle cx="329" cy="352" r="8" fill="#091B4A"/>
+  <circle cx="358" cy="275" r="19" fill="#00DBEC"/><circle cx="358" cy="275" r="8" fill="#091B4A"/>
+  <circle cx="333" cy="197" r="19" fill="#00DBEC"/><circle cx="333" cy="197" r="8" fill="#091B4A"/>
+  <path fill="#091B4A" d="M231 251 V232 C231 216 242 204 256 204 C270 204 281 216 281 232 V251 Z"/>
+  <path fill="#FFFFFF" d="M214 265 V231 C214 207 233 187 256 187 C279 187 298 207 298 231 V265 H281 V232 C281 216 270 204 256 204 C242 204 231 216 231 232 V265 Z"/>
+  <path fill="#FFFFFF" d="M214 250 H298 C308 250 317 259 317 270 V323 C317 340 299 353 256 362 C213 353 195 340 195 323 V270 C195 259 204 250 214 250 Z"/>
+  <path fill="#091B4A" d="M256 279 C245 279 236 288 236 299 C236 306 239 312 244 315 L238 333 C237 336 239 339 243 339 H269 C273 339 275 336 274 333 L268 315 C273 312 276 306 276 299 C276 288 267 279 256 279 Z"/>
+</svg>
